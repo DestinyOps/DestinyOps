@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 🔭 I’m currently working with DXC Technologies to implement RAG on government documents.
 - 🌱 I’m currently learning how LLM parse data depending on user input.
-- 📫 How to reach me: email: dosemwen@macalester.edu
+- 📫 How to reach me: email: dosemwen@macalester.edu linkedin: https://www.linkedin.com/in/destiny-osemwengie/
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love to run 
 
