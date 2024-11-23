@@ -1,7 +1,6 @@
 ## Hi there 👋
-- 🔭 I’m currently working with DXC Technologies to implement RAG on government documents
-- 🌱 I’m currently learning how to journal
-- 💬 Ask me about ...
+- 🔭 I’m currently working with DXC Technologies to implement RAG on government documents.
+- 🌱 I’m currently learning how LLM parse data depending on user input.
 - 📫 How to reach me: email: dosemwen@macalester.edu
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love to run 
