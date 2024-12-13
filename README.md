@@ -6,9 +6,12 @@
 - 📫 How to reach me: email: dosemwen@macalester.edu linkedin: https://www.linkedin.com/in/destiny-osemwengie/
 - 😄 Pronouns: She/Her
 - ⚡ Repositories I've worked / I'm wokring on:
-- https://github.com/DestinyOps/DXC-Tech
+- https://github.com/DestinyOps/DXC-Tech](https://github.com/DestinyOps/DXC_Tech_1A
 - https://github.com/DestinyOps/Breakout-MACALESTERCOMP
 - https://github.com/DestinyOps/BookReviews-BTTAI
+
+- Also check out other projects in my Repsoitory:
+- https://github.com/DestinyOps?tab=repositories
 
 <!--
 **DestinyOps/DestinyOps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
