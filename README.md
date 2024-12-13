@@ -3,10 +3,11 @@
 
 - 🔭 I’m currently working with DXC Technologies to implement RAG on government documents.
 - 🌱 I’m currently learning how LLM parse data depending on user input.
-- 📫 How to reach me: email: dosemwen@macalester.edu linkedin: https://www.linkedin.com/in/destiny-osemwengie/
+- 📫 How to reach me: email: dosemwen@macalester.edu [school], destinyosemwengie6@gmail [Personal]
+- linkedin: https://www.linkedin.com/in/destiny-osemwengie/
 - 😄 Pronouns: She/Her
 - ⚡ Repositories I've worked / I'm wokring on:
-- https://github.com/DestinyOps/DXC-Tech](https://github.com/DestinyOps/DXC_Tech_1A
+- https://github.com/DestinyOps/DXC-Tech
 - https://github.com/DestinyOps/Breakout-MACALESTERCOMP
 - https://github.com/DestinyOps/BookReviews-BTTAI
 
