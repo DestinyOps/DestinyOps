@@ -1,13 +1,12 @@
 ## Hi there 👋
-## My name is Destiny. I’m a student-athlete majoring in Data Science with a passion for economics, Russian, and physics. Through Break Through Tech AI, I’m gaining foundational skills in AI and ML to explore their societal impacts. My goal is to work in finance as a data scientist or banker, leveraging emerging technology to support financial tasks. I’m seeking opportunities to apply ML in the financial sector. Outside academics, I enjoy running and participating in mock trial.
+## My name is Destiny. I’m a student-athlete majoring in Data Science with a passion for economics, Russian, and physics. Through Break Through Tech AI, I’m gaining foundational skills in AI and ML to explore their societal impacts. My goal is to work in finance as a data scientist or banker, leveraging emerging technology to support financial tasks. Outside academics, I enjoy running, mock trial,and Jumanji: Welcome to the Jungle.
 
 -  😄 Pronouns: She/Her
 - 🔭 I’m currently working with DXC Technologies to implement RAG on government documents.
 - 🌱 I’m currently learning how LLM parse data depending on user input.
-- 📫 How to reach me: email: dosemwen@macalester.edu [school], destinyosemwengie6@gmail.com [Personal],
+- 📫 How to reach me: email: dosemwen@macalester.edu [school], destinyosemwengie6@gmail.com [personal],
 - linkedin: https://www.linkedin.com/in/destiny-osemwengie/
 - ⚡ Repositories I've worked / I'm wokring on:
-- https://github.com/DestinyOps/DXC-Tech
 - https://github.com/DestinyOps/Breakout-MACALESTERCOMP
 - https://github.com/DestinyOps/BookReviews-BTTAI
 
